@@ -29,7 +29,7 @@
     "lerna": "^3.10.5",
     "reflect-metadata": "^0.1.13",
     "ts-jest": "^24.0.0",
-    "tslib": "^1.9.3",
+    "tslib": "^1.11.0",
     "typescript": "^3.3.3333"
   },
   "workspaces": {
